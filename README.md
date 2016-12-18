@@ -1,2 +1,4 @@
 # app-admin
-App without packing any JS/CSS, handling AJAX requests, packing only PHP files with PRESERVE_HDD mode.
+- MVC application without packing any JS/CSS files or images
+- handling Ext.JS AJAX requests
+- packing to PHAR/PHP (preserve hdd)
